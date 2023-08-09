@@ -11,5 +11,8 @@
     "url": "(https://github.com/arrrjhay009/Card-Exercise.git)"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
 }
